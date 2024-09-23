@@ -1,0 +1,49 @@
+.body{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    background-color: #fff;;
+    height: 100%;
+    width: 100%;
+    
+    font-size: 1.60vw;
+}
+p{
+    width:100%;
+    text-align: center;
+    color: #393939;
+    font-size: 4vw;
+    text-shadow: 1.5px 1.5px 5px rgb(77, 14, 14);
+   
+}
+.form-horizontal{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: #393939;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px  #b4cfeb ;
+    background-color: #b4cfeb;
+}
+.form-group{
+    width:70%;
+    margin-left: 10%;
+    padding-top:5px ;
+    margin-right: 10%;
+   
+}
+.btn{
+    border: 1px solid black;
+    border-radius: 2px;
+}
+.d{
+    padding-left:5% ;
+}
+.form-horizontal .form-group {
+    margin-left: 20%;
+}
+
